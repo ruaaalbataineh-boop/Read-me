@@ -81,10 +81,7 @@ I'm currently building projects to strengthen my frontend and backend developmen
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruaaalbataineh-boop&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruaaalbataineh-boop&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ruaaalbataineh-boop&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruaaalbataineh-boop&layout=compact&theme=radical&hide_border=true" height="180"/> </p>
 
 ---
 
