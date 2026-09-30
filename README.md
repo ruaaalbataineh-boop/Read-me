@@ -1,7 +1,7 @@
 # Hi, I'm Ruaa Albataineh 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Aspiring+Web+Developer;Frontend+%26+Backend+Learner;JavaScript+%7C+Node.js+%7C+PostgreSQL;AI+%26+Web+Development+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Software+Engineering+Graduate;Master's+Student+in+AI;Frontend+%26+Backend+Learner;AI+%26+Web+Development+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
