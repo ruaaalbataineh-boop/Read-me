@@ -73,9 +73,18 @@ Currently expanding my knowledge through courses, hands-on practice, and persona
 
 ## 🌟 Featured Projects
 
-I'm currently building projects to strengthen my frontend and backend development skills.
+## 🌟 Featured Projects
 
-> 🚧 More projects coming soon...
+### 💗 Pure Beauty
+
+A beauty salon website designed for a modern and elegant user experience.
+
+**Technologies:**
+
+`HTML` `CSS` `JavaScript`
+
+🔗 **[View Project](https://github.com/ruaaalbataineh-boop/Pure--Beauty)**
+
 
 ---
 
