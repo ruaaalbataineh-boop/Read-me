@@ -73,18 +73,27 @@ Currently expanding my knowledge through courses, hands-on practice, and persona
 
 ## 🌟 Featured Projects
 
-## 🌟 Featured Projects
-
 ### 💗 Pure Beauty
 
-A beauty salon website designed for a modern and elegant user experience.
+A modern beauty salon website designed with an elegant and responsive user experience.
 
 **Technologies:**
 
 `HTML` `CSS` `JavaScript`
 
-🔗 **[View Project](https://github.com/ruaaalbataineh-boop/Pure--Beauty)**
+🔗 [View Project](https://github.com/ruaaalbataineh-boop/Pure--Beauty)
 
+---
+
+### 🏋️ Gym Website
+
+A responsive website project designed for a modern gym and fitness experience.
+
+**Technologies:**
+
+`HTML` `CSS` `JavaScript`
+
+🔗 [View Project](https://github.com/ruaaalbataineh-boop/gym-website)
 
 ---
 
