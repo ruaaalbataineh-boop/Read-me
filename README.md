@@ -97,6 +97,31 @@ A responsive website project designed for a modern gym and fitness experience.
 
 ---
 
+### ✅ TaskFlow — To-Do List
+
+A simple and interactive task management application that allows users to add, complete, and manage their daily tasks.
+
+**Technologies:**
+
+`HTML` `CSS` `JavaScript` `Local Storage`
+
+🔗 [View Project](https://github.com/ruaaalbataineh-boop/TaskFlow)
+
+---
+
+### 💻 Personal Portfolio
+
+A modern and responsive personal portfolio website created to showcase my skills, projects, education, learning journey, and contact information.
+
+**Technologies:**
+
+`HTML` `CSS` `JavaScript` `Font Awesome`
+
+🔗 [View Project](https://github.com/ruaaalbataineh-boop/Portfolio)
+
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ruaaalbataineh-boop&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="180"/></p>
